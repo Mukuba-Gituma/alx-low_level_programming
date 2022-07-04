@@ -1,22 +1,19 @@
 #include <stdio.h>
 
-/*
+/**
  * main - Prints all numbers of base 10
- * 
- * Description: A program that prints all single digit numbers of base 10 starting from 0, followed by a new line
- *
- * Return: 0 (Success)
+ * Return: 0
  */
 
 int main(void)
 {
-	int n;
+	char i;
 
-	for (n = 0; n < 10; n++)
+	for (i = 0; i < 10; i++)
 	{
-		printf("%d", n);
+		putchar(i);
 	}
-	printf("\n");
+	putchar('\n');
 
 	return (0);
 }
