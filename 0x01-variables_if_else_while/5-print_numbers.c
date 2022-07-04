@@ -1,7 +1,9 @@
 #include <stdio.h>
 
 /*
- * main - Entry point. Prints all numbers of base 10
+ * main - Entry point
+ *
+ * Description: Prints all numbers of base 10
  *
  * Return: 0 (Success)
  **/
