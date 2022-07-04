@@ -1,8 +1,11 @@
 #include <stdio.h>
+
 /*
- * main - Prints all numbers of base 10
- * Return: 0
- */
+ * main - Entry point. Prints all numbers of base 10
+ *
+ * Return: 0 (Success)
+ **/
+
 int main(void)
 {
 	int n;
