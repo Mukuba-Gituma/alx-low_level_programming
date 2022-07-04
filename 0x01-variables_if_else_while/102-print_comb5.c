@@ -11,7 +11,7 @@ int main(void)
 
 	for (p = 0; p < 100; p++)
 	{
-		for (q =0; q < 100; q++)
+		for (q = 0; q < 100; q++)
 		{
 			if (p < q && p != q)
 			{
