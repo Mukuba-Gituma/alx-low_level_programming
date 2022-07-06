@@ -3,7 +3,7 @@
 /**
  * _isalpha - Check main
  * @c: The character to be checked
- * Return: 1 if the character is a letter, lowercase or uppercase or 0 if otherwise
+ * Return: 1 if c is a letter, lowercase or uppercase or 0 if otherwise
  */
 
 int _isalpha(int c)
