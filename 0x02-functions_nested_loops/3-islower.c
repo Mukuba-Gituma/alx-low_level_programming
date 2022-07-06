@@ -11,7 +11,7 @@ int _islower(int c)
 	char low;
 	int i = 0;
 
-	for (low = 'a'; low = 'z'; low++)
+	for (low = 'a'; low <= 'z'; low++)
 	{
 		if (low == c)
 		{
