@@ -27,7 +27,7 @@ int main(void)
 			printf(", %ld", k);
 		}
 
-		++1;
+		++i;
 	}
 
 	printf("\n");
