@@ -1,8 +1,7 @@
 #include <stdio.h>
 #define LARGEST 10000000000
 /**
- * main - Find and print the first 98 fib numbers 
- * starting with 1 and 2.
+ * main - Find and print the first 98 fib numbers starting with 1 and 2.
  * Return: 0
  */
 int main(void)
