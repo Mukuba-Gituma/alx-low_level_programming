@@ -13,7 +13,7 @@ int _isdigit(int c)
 
 	for (; i <= '9'; i++)
 	{
-		if (1 == c)
+		if (i == c)
 		{
 			isdigit = 1;
 			break;
