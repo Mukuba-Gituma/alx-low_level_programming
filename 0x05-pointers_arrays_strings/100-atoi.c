@@ -11,7 +11,7 @@ int _atoi(char *s)
 {
 	int index, ind2;
 	unsigned int res;
-	int sign;
+	int sign = 1;
 	char now;
 
 	index = 0;
